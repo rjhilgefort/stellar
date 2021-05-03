@@ -1,0 +1,8 @@
+{
+  "name": "stellar",
+  "version": "1.0.0",
+  "description": "stellar",
+  "main": "src/index.js",
+  "author": "Rob Hilgefort <rjhilgefort@gmail.com>",
+  "license": "MIT"
+}
