@@ -4,5 +4,22 @@
   "description": "stellar",
   "main": "src/index.js",
   "author": "Rob Hilgefort <rjhilgefort@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.21.1",
+    "express": "^4.17.1",
+    "fp-ts": "^2.10.5",
+    "lodash": "^4.17.21",
+    "lowdb": "^1.0.0",
+    "ramda": "^0.27.1",
+    "ramda-adjunct": "^2.32.0",
+    "short-uuid": "^4.1.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "start:watch": "onchange -i -k 'src/**/*.js' -- node src/index.js"
+  },
+  "devDependencies": {
+    "onchange": "^7.1.0"
+  }
 }
