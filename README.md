@@ -20,6 +20,10 @@
 
 ![](created-snippet.png)
 
+### Duplicate Name
+
+![](duplicate-name.png)
+
 ### Retrieved Snippet
 
 ![](snippet-url.png)
